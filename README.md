@@ -211,7 +211,6 @@ LinkedIn:
 
 ---
 
-## 📸 Screenshot
 
 ## 📸 Screenshot
 
