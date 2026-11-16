@@ -213,7 +213,7 @@ LinkedIn:
 
 ## 📸 Screenshot
 
-_Add a screenshot of the completed project here._
+complainytscreenshot.png
 
 ```
 assets/images/customer-complaint-form.png
