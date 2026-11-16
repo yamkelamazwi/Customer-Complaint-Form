@@ -213,10 +213,10 @@ LinkedIn:
 
 ## 📸 Screenshot
 
-complainytscreenshot.png
+![Customer Complaint Form](./ComplaintScreenshot.png)
 
 ```
-assets/images/customer-complaint-form.png
+
 ```
 
 ---
