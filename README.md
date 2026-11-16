@@ -201,19 +201,21 @@ Potential future enhancements include:
 
 ### Yamkela Mazwi
 
-Aspiring Front-End Developer focused on building responsive and accessible web applications while continuing to strengthen JavaScript fundamentals through practical projects.
+Front-End Developer focused on building responsive and accessible web applications while continuing to strengthen JavaScript fundamentals through practical projects.
 
 GitHub:
 https://github.com/yamkelamazwi
 
 LinkedIn:
-(Add your LinkedIn profile URL here)
+(https://www.linkedin.com/in/yamkela-mazwi-790059329/)
 
 ---
 
 ## 📸 Screenshot
 
-![Customer Complaint Form](./ComplaintScreenshot.png)
+## 📸 Screenshot
+
+![Customer Complaint Form](./complainytscreenshot.png)
 
 ```
 
