@@ -22,6 +22,9 @@ const solutionRadios = document.querySelectorAll(
 const otherComplaint = document.getElementById("other-complaint");
 const otherSolution = document.getElementById("other-solution");
 
+const clearBtn = document.getElementById("clear-btn");
+
+
 function validateForm() {
   const orderRegex = /^2024\d{6}$/;
   const productCodeRegex = /^[A-Za-z]{2}\d{2}-[A-Za-z]\d{3}-[A-Za-z]{2}\d$/;
@@ -200,4 +203,21 @@ form.addEventListener("submit", (e) => {
   }
 
   messageBox.textContent = "Form submitted successfully!";
+});
+
+clearBtn.addEventListener("click", () => {
+  form.reset();
+
+  fullName.style.borderColor = "";
+  email.style.borderColor = "";
+  orderNo.style.borderColor = "";
+  productCode.style.borderColor = "";
+  quantity.style.borderColor = "";
+  complaintDescription.style.borderColor = "";
+  solutionDescription.style.borderColor = "";
+
+  document.getElementById("complaints-group").style.borderColor = "";
+  document.getElementById("solutions-group").style.borderColor = "";
+
+  messageBox.textContent = "";
 });
